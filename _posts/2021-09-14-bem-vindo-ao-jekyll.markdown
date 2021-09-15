@@ -2,7 +2,7 @@
 layout: post
 title:  "Bem-vindo ao Jekyll!"
 date:   2021-09-14 21:35:25 -0300
-categories: jekyll update
+categories: welcome
 ---
 
 Essa é a terceira vez que tento manter um blog para espalhar as informações e ensinamentos que tenho no dia-a-dia. Vamos ver se dessa vez vai rs.
