@@ -24,6 +24,11 @@ domain: ruanpetterson.github.io
 url: https://ruanpetterson.github.io
 baseurl: ""
 
+collections:
+  posts:
+    output: true
+    permalink: /posts/:year/:month/:day/:title:output_ext
+
 # Social media
 github_username:  ruanpetterson
 twitter_username: ruanpetterson_
